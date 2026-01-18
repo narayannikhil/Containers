@@ -1,0 +1,17 @@
+{
+  "name": "node_bind_mount",
+  "version": "1.0.0",
+  "description": "Node.js bind mount demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
